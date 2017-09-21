@@ -31,5 +31,6 @@ def main():
         check = check_elb_cross_zone_attr(client_elb, elb_name)
         print(f'{elb_name} -> {"OK" if check else "NOK"}')
 
+
 if __name__ == '__main__':
     sys.exit(main())
