@@ -1,3 +1,9 @@
 [submodule "v4-advanced-package"]
 	path = v4-advanced-package
 	url = https://github.com/Grindizer/v4-advanced-package
+[submodule "v6-plugins-namespace-package/v6-01-checker-package"]
+	path = v6-plugins-namespace-package/v6-01-checker-package
+	url = https://github.com/Grindizer/v6-01-checker-package.git
+[submodule "v5-plugins-entrypoint/v5-01-checker-package"]
+	path = v5-plugins-entrypoint/v5-01-checker-package
+	url = https://github.com/Grindizer/v5-01-checker-package-
