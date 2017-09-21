@@ -1,0 +1,23 @@
+CHANGES
+=======
+
+0.2.1
+-----
+
+* Entrypoint are lookup and return from the runner
+
+0.2.0
+-----
+
+* Using entrypoint to find checks to execute
+
+0.1.0
+-----
+
+* Commit auto generated changelog
+
+0.0.2
+-----
+
+* Simple but work-able python package. Integrate with pbr and setuptools
+* initial commit
