@@ -1,0 +1,3 @@
+[submodule "v4-advanced-package"]
+	path = v4-advanced-package
+	url = https://github.com/Grindizer/v4-advanced-package
