@@ -1,11 +1,11 @@
 import sys
 
 # - dynamically insert the dependency directory -
-# from os.path import dirname, join as pjoin
-# from os import getcwd
+from os.path import dirname, join as pjoin
+from os import getcwd
 #
-# here = getcwd()
-# sys.path.insert(0, pjoin(here, 'deps'))
+here = getcwd()
+sys.path.insert(0, pjoin(here, 'deps'))
 # --
 
 # - distribute this script as a single file -
